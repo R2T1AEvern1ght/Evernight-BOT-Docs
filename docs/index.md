@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "🌑 永夜游戏与功能百科"
-  tagline: "QQ 群聊多人游戏 · 当前 v1.10.4 · 30 款公开游戏"
+  tagline: "QQ 群聊多人游戏 · 当前 v1.10.6 · 31 款公开游戏"
   actions:
     - theme: brand
       text: 浏览游戏
@@ -29,3 +29,14 @@ features:
 > 本站仅介绍已发布版本。JOKER 仍处于开发阶段，不属于正式上线功能。
 
 快速进入：[游戏目录](/games) · [功能与操作示例](/guide) · [版本记录](/changelog) · [English](/en/) · [日本語](/ja/)
+
+## 开发团队
+
+**开发者**
+
+- レム（B站：@レム-N01RR3M）
+
+**协助开发者**
+
+- A-35（B站：@一只很屑的A-35）
+- 🐟/FISH（B站：@Roblox_FLSH）
