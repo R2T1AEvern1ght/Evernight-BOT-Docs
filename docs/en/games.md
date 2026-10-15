@@ -1,4 +1,4 @@
-# All games — v1.10.4
+# All games — v1.10.6
 
 > Examples show command syntax, not guaranteed puzzle answers. Replace room codes, puzzle inputs and GO codes with live values.
 
@@ -239,6 +239,14 @@ Pass the bomb before the timer runs out.
 Choose rooms; avoid bombs and use special skills.
 
 **Example:** `/GameXXXVI Pick 3`
+
+[📖 Detailed Chinese rules](/games)
+
+## Game XXXVII: RULES HORROR（♥J）
+
+Explore a unique rule-horror scenario, interpret possibly false rules, and escape individually. Supports 1–8 players.
+
+**Example:** `/GameXXXVII 创建`
 
 [📖 Detailed Chinese rules](/games)
 
