@@ -2,7 +2,7 @@
 
 
 
-**Version: v1.10.4** · **30 games**
+**Version: v1.10.6** · **31 games**
 
 Evernight-BOT is a QQ group bot featuring games, leaderboards and player progression.
 
@@ -84,3 +84,20 @@ Check current bot version and recent changes.
 
 **Example:** `/版本号`
 
+### Official manual
+
+Open the official website. This standalone command works without registration or group activation.
+
+**Example:** `/说明书`
+
+
+## Development team
+
+**Developer**
+
+- レム（B站：@レム-N01RR3M）
+
+**Contributing developers**
+
+- A-35（B站：@一只很屑的A-35）
+- 🐟/FISH（B站：@Roblox_FLSH）
