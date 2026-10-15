@@ -27,7 +27,7 @@ export default defineConfig({
         sidebar: [
           { text: '快速开始', items: [
             { text: '首页', link: '/' }, { text: '功能与示例', link: '/guide' },
-            { text: '30款游戏', link: '/games' }, { text: '更新记录', link: '/changelog' }
+            { text: '31款游戏', link: '/games' }, { text: '更新记录', link: '/changelog' }
           ] }
         ],
         outline: { label: '本页目录', level: [2,3] },
