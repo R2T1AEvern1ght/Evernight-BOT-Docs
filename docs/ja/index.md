@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "Evernight-BOT を楽しもう"
-  tagline: "QQグループゲーム・機能・コマンド使用例 · v1.10.8"
+  tagline: "QQグループゲーム・機能・コマンド使用例 · v1.10.9"
   actions:
     - theme: brand
       text: ゲーム一覧
@@ -13,7 +13,7 @@ hero:
       link: /ja/guide
 features:
   - icon: "🎮"
-    title: 31ゲーム
+    title: 32ゲーム
     details: ゲームのルール概要と操作例。
   - icon: "📖"
     title: 使い方ガイド
