@@ -1,4 +1,4 @@
-# Evernight-BOT v1.10.8 — 全部 31 款游戏详细规则
+# Evernight-BOT v1.10.9 — 全部 32 款游戏详细规则
 
 [返回首页](/)
 
@@ -1169,3 +1169,11 @@ Game XII 目前不提供单人模式。
 /GameXXXVII Choose A/B/C/E｜Interact Look 物体｜Interact Move 地点｜Interact Eat
 /GameXXXVII Interact Search 补给｜Interact Use｜Interact Help 昵称｜Interact Open
 ```
+
+## Game XXXVIII: UNLOCK（开锁）（♠8）
+
+查询指令：`/GameXXXVIII 规则`
+
+**操作示例：** `/GameXXXVIII 规则`  （根据实时题目或房号填写具体内容）
+
+此游戏暂无可安全静态提取的完整规则文本，请在 QQ 群发送对应规则指令获取准确内容。
