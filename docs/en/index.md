@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "Explore Evernight-BOT"
-  tagline: "QQ group games, features and command examples · v1.10.8"
+  tagline: "QQ group games, features and command examples · v1.10.9"
   actions:
     - theme: brand
       text: Game catalog
@@ -13,7 +13,7 @@ hero:
       link: /en/guide
 features:
   - icon: "🎮"
-    title: 31 Games
+    title: 32 Games
     details: Browse game modes and command examples.
   - icon: "📖"
     title: Quick guides
