@@ -2,31 +2,54 @@
 layout: home
 hero:
   name: "Evernight-BOT"
-  text: "Explore Evernight-BOT"
-  tagline: "QQ group games, features and command examples · v1.10.10"
+  text: "🌑 Evernight Games & Features Encyclopedia"
+  tagline: "QQ group multiplayer games · v1.10.10 · 32 released games"
   actions:
     - theme: brand
-      text: Game catalog
+      text: "Explore games"
       link: /en/games
     - theme: alt
-      text: How to use
+      text: "User guide"
       link: /en/guide
 features:
-  - icon: "🎮"
-    title: 32 Games
-    details: Browse game modes and command examples.
-  - icon: "📖"
-    title: Quick guides
-    details: Examples for major bot features.
+  - icon: "♠️"
+    title: "Reaction & Survival"
+    details: "Spades: reaction time, timing, survival decisions and risk management."
+  - icon: "♥️"
+    title: "Psychology & Strategy"
+    details: "Hearts: communication, prediction, trust and psychological strategy."
+  - icon: "♣️"
+    title: "Cooperation & Teamwork"
+    details: "Clubs: shared information, cooperation and coordinated teamwork."
+  - icon: "♦️"
+    title: "Logic & Knowledge"
+    details: "Diamonds: logical reasoning, mathematics, knowledge and puzzles."
 ---
+
+> This website documents released games only. JOKER is still in development and is not an available feature.
+
+**Quick links：** [Game catalog](/en/games) · [Features & commands](/en/guide) · [Changelog](/en/changelog) · [简体中文](/) · [English](/en/) · [日本語](/ja/)
+
+## Getting started
+
+1. In a QQ group, use `/目录` to find a game and `/Game[number] 规则` to view its full in-bot rules.
+2. The host creates a room with that game’s command and shares the four-digit room code displayed by the bot.
+3. Other players send `/加入 [code]`; the host sends `/开始`, and everyone follows the game-specific prompts.
+
+## What you can find here
+
+- **Detailed game guides:** Players, mechanics, walkthroughs, scoring, winning, and essential commands for every game.
+- **Features and commands:** Registration, profiles, rooms, language settings and everyday bot functions.
+- **Changelog:** Release notes for the current public bot version.
 
 ## Development team
 
 **Developer**
 
-- レム（B站：@レム-N01RR3M）
+- レム（Bilibili: @レム-N01RR3M）
 
 **Contributing developers**
 
-- A-35（B站：@一只很屑的A-35）
-- 🐟/FISH（B站：@Roblox_FLSH）
+- A-35（Bilibili: @一只很屑的A-35）
+- 🐟/FISH（Bilibili: @Roblox_FLSH）
+
