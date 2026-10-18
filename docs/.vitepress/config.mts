@@ -21,7 +21,7 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/' },
           { text: '功能指南', link: '/guide' },
-          { text: '游戏规则', link: '/games' },
+          { text: '游戏玩法', link: '/games' },
           { text: '更新记录', link: '/changelog' }
         ],
         sidebar: [
