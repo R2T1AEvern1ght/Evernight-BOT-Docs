@@ -95,9 +95,9 @@ Open the official website. This standalone command works without registration or
 
 **Developer**
 
-- レム（B站：@レム-N01RR3M）
+- レム（Bilibili: @レム-N01RR3M）
 
 **Contributing developers**
 
-- A-35（B站：@一只很屑的A-35）
-- 🐟/FISH（B站：@Roblox_FLSH）
+- A-35（Bilibili: @一只很屑的A-35）
+- 🐟/FISH（Bilibili: @Roblox_FLSH）
