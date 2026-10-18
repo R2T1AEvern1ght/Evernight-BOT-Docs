@@ -30,6 +30,43 @@ features:
 
 **Quick links：** [Game catalog](/en/games) · [Features & commands](/en/guide) · [Changelog](/en/changelog) · [简体中文](/) · [English](/en/) · [日本語](/ja/)
 
+## 🌙 A Message from the Bot's Creator
+
+**Role:** Founder / Developer / Administrator of Evernight-BOT
+
+**Contact:**
+
+- 🐧 QQ: 2410359031
+- 📺 Bilibili: @レム-N01RR3M
+
+### 👤 About Me
+
+Hello, I'm **レム**, the founder and lead developer of Evernight-BOT.
+
+I enjoy exploring interesting game mechanics, gameplay design, and programming. Evernight-BOT is a personal project into which I continue to invest my time and effort.
+
+Rather than simply building a bot that follows commands, I want to create a gaming platform with unique mechanics, engaging interactions, and constantly evolving content.
+
+### 🎮 About Evernight-BOT
+
+Evernight-BOT is a QQ group entertainment bot that I independently designed and continue to maintain. My goal is to give players a varied, challenging, and enjoyable gaming experience.
+
+From game rules and balance to system design, I hope to keep improving every detail so that each update offers something new.
+
+### 💬 My Philosophy
+
+**“Games shouldn't be just repetitive actions. They should be full of uncertainty, strategy, and surprises.”**
+
+I can't promise that every design will be perfect, but I'll do my best to make Evernight-BOT better and better.
+
+### 🌌 Finally
+
+Thank you to every player who supports Evernight-BOT.
+
+Your participation is what keeps this project moving forward.
+
+**The night is still young.**
+
 ## Getting started
 
 1. In a QQ group, use `/目录` to find a game and `/Game[number] 规则` to view its full in-bot rules.
