@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "🌑 永夜游戏与功能百科"
-  tagline: "QQ 群聊多人游戏 · 当前 v1.10.9 · 32 款公开游戏"
+  tagline: "QQ 群聊多人游戏 · 当前 v1.10.10 · 32 款公开游戏"
   actions:
     - theme: brand
       text: 浏览游戏
