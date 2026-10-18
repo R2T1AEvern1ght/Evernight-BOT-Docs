@@ -1,4 +1,4 @@
-# All games — v1.10.8
+# All games — v1.10.9
 
 > Examples show command syntax, not guaranteed puzzle answers. Replace room codes, puzzle inputs and GO codes with live values.
 
@@ -247,6 +247,14 @@ Choose rooms; avoid bombs and use special skills.
 Explore a unique rule-horror scenario, interpret possibly false rules, and escape individually. Supports 1–8 players.
 
 **Example:** `/GameXXXVII 创建`
+
+[📖 Detailed Chinese rules](/games)
+
+## Game XXXVIII: UNLOCK（♠8）
+
+See source rules.
+
+**Example:** `/GameXXXVIII 规则`
 
 [📖 Detailed Chinese rules](/games)
 
