@@ -1,4 +1,4 @@
-# All games — v1.10.9
+# All games — v1.10.10
 
 > Examples show command syntax, not guaranteed puzzle answers. Replace room codes, puzzle inputs and GO codes with live values.
 
