@@ -1,6 +1,6 @@
 # All 32 Games · Detailed Playing Guide
 
-**Evernight-BOT v2.0.0** · [Back to homepage](/en/)
+**Evernight-BOT v2.0.1** · [Back to homepage](/en/)
 
 Every game includes its objective, mechanics, step-by-step play, scoring and useful commands. These explanations are rewritten from the released rules, not pasted bot responses.
 
