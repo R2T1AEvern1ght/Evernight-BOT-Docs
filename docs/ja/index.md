@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "🌑 永夜ゲーム・機能百科"
-  tagline: "QQグループ対戦ゲーム · v2.0.1 · 公開中の32ゲーム"
+  tagline: "QQグループ対戦ゲーム · v2.0.2 · 公開中の32ゲーム"
   actions:
     - theme: brand
       text: "ゲームを探す"
