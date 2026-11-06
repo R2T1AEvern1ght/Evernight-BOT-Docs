@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Evernight-BOT"
   text: "🌑 Evernight Games & Features Encyclopedia"
-  tagline: "QQ group multiplayer games · v2.0.1 · 32 released games"
+  tagline: "QQ group multiplayer games · v2.0.2 · 32 released games"
   actions:
     - theme: brand
       text: "Explore games"
