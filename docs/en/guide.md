@@ -2,7 +2,7 @@
 
 
 
-**Version: v2.0.0** · **32 games**
+**Version: v2.0.1** · **32 games**
 
 Evernight-BOT is a QQ group bot featuring games, leaderboards and player progression.
 
